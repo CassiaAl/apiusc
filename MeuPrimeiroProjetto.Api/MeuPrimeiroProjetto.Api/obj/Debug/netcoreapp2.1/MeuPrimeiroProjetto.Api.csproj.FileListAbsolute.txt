@@ -1,0 +1,16 @@
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjetto.Api\bin\Debug\netcoreapp2.1\MeuPrimeiroProjetto.Api.deps.json
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjetto.Api\bin\Debug\netcoreapp2.1\MeuPrimeiroProjetto.Api.runtimeconfig.json
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjetto.Api\bin\Debug\netcoreapp2.1\MeuPrimeiroProjetto.Api.runtimeconfig.dev.json
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjetto.Api\bin\Debug\netcoreapp2.1\MeuPrimeiroProjetto.Api.dll
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjetto.Api\obj\Debug\netcoreapp2.1\MeuPrimeiroProjetto.Api.csprojAssemblyReference.cache
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjetto.Api\obj\Debug\netcoreapp2.1\MeuPrimeiroProjetto.Api.csproj.CoreCompileInputs.cache
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjetto.Api\obj\Debug\netcoreapp2.1\MeuPrimeiroProjetto.Api.RazorAssemblyInfo.cache
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjetto.Api\obj\Debug\netcoreapp2.1\MeuPrimeiroProjetto.Api.RazorAssemblyInfo.cs
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjetto.Api\obj\Debug\netcoreapp2.1\MeuPrimeiroProjetto.Api.AssemblyInfoInputs.cache
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjetto.Api\obj\Debug\netcoreapp2.1\MeuPrimeiroProjetto.Api.AssemblyInfo.cs
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjetto.Api\obj\Debug\netcoreapp2.1\MeuPrimeiroProjetto.Api.RazorTargetAssemblyInfo.cache
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjetto.Api\bin\Debug\netcoreapp2.1\MeuPrimeiroProjetto.Api.pdb
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjetto.Api\obj\Debug\netcoreapp2.1\MeuPrimeiroProjetto.Api.dll
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjetto.Api\obj\Debug\netcoreapp2.1\MeuPrimeiroProjetto.Api.pdb
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjetto.Api\bin\Debug\netcoreapp2.1\MeuPrimeiroProjeto.BLL.Infra.dll
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjetto.Api\bin\Debug\netcoreapp2.1\MeuPrimeiroProjeto.Entities.dll

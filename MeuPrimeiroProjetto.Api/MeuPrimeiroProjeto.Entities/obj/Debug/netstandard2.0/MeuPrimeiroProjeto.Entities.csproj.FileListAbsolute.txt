@@ -1,0 +1,12 @@
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.Entities\bin\Debug\netstandard2.0\MeuPrimeiroProjeto.Entities.deps.json
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.Entities\bin\Debug\netstandard2.0\MeuPrimeiroProjeto.Entities.dll
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.Entities\bin\Debug\netstandard2.0\MeuPrimeiroProjeto.Entities.pdb
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.Entities\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.Entities\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.Entities\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.Entities.csprojAssemblyReference.cache
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.Entities\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.Entities.csproj.CoreCompileInputs.cache
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.Entities\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.Entities.AssemblyInfoInputs.cache
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.Entities\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.Entities.AssemblyInfo.cs
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.Entities\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.Entities.csproj.CopyComplete
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.Entities\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.Entities.dll
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.Entities\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.Entities.pdb

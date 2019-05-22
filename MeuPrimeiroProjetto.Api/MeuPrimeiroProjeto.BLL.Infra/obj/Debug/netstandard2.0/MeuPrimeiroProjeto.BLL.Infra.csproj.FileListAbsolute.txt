@@ -1,0 +1,14 @@
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.BLL.Infra\bin\Debug\netstandard2.0\MeuPrimeiroProjeto.BLL.Infra.deps.json
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.BLL.Infra\bin\Debug\netstandard2.0\MeuPrimeiroProjeto.BLL.Infra.dll
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.BLL.Infra\bin\Debug\netstandard2.0\MeuPrimeiroProjeto.BLL.Infra.pdb
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.BLL.Infra\bin\Debug\netstandard2.0\MeuPrimeiroProjeto.Entities.dll
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.BLL.Infra\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.BLL.Infra\bin\Debug\netstandard2.0\MeuPrimeiroProjeto.Entities.pdb
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.BLL.Infra\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.BLL.Infra\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.BLL.Infra.csprojAssemblyReference.cache
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.BLL.Infra\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.BLL.Infra.csproj.CoreCompileInputs.cache
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.BLL.Infra\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.BLL.Infra.AssemblyInfoInputs.cache
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.BLL.Infra\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.BLL.Infra.AssemblyInfo.cs
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.BLL.Infra\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.BLL.Infra.csproj.CopyComplete
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.BLL.Infra\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.BLL.Infra.dll
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.BLL.Infra\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.BLL.Infra.pdb

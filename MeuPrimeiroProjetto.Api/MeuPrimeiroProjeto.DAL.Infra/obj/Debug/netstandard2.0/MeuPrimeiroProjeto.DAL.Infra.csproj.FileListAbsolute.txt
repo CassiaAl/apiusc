@@ -1,0 +1,12 @@
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.DAL.Infra\bin\Debug\netstandard2.0\MeuPrimeiroProjeto.Entities.dll
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.DAL.Infra\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.DAL.Infra.csprojAssemblyReference.cache
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.DAL.Infra\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.DAL.Infra.csproj.CoreCompileInputs.cache
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.DAL.Infra\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.DAL.Infra.AssemblyInfoInputs.cache
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.DAL.Infra\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.DAL.Infra.AssemblyInfo.cs
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.DAL.Infra\bin\Debug\netstandard2.0\MeuPrimeiroProjeto.DAL.Infra.deps.json
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.DAL.Infra\bin\Debug\netstandard2.0\MeuPrimeiroProjeto.DAL.Infra.dll
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.DAL.Infra\bin\Debug\netstandard2.0\MeuPrimeiroProjeto.DAL.Infra.pdb
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.DAL.Infra\bin\Debug\netstandard2.0\MeuPrimeiroProjeto.Entities.pdb
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.DAL.Infra\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.DAL.Infra.csproj.CopyComplete
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.DAL.Infra\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.DAL.Infra.dll
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.DAL.Infra\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.DAL.Infra.pdb

@@ -1,0 +1,16 @@
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.BLL\bin\Debug\netstandard2.0\MeuPrimeiroProjeto.BLL.deps.json
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.BLL\bin\Debug\netstandard2.0\MeuPrimeiroProjeto.BLL.dll
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.BLL\bin\Debug\netstandard2.0\MeuPrimeiroProjeto.BLL.pdb
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.BLL\bin\Debug\netstandard2.0\MeuPrimeiroProjeto.BLL.Infra.dll
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.BLL\bin\Debug\netstandard2.0\MeuPrimeiroProjeto.DAL.Infra.dll
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.BLL\bin\Debug\netstandard2.0\MeuPrimeiroProjeto.Entities.dll
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.BLL\bin\Debug\netstandard2.0\MeuPrimeiroProjeto.BLL.Infra.pdb
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.BLL\bin\Debug\netstandard2.0\MeuPrimeiroProjeto.DAL.Infra.pdb
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.BLL\bin\Debug\netstandard2.0\MeuPrimeiroProjeto.Entities.pdb
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.BLL\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.BLL.csprojAssemblyReference.cache
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.BLL\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.BLL.csproj.CoreCompileInputs.cache
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.BLL\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.BLL.AssemblyInfoInputs.cache
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.BLL\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.BLL.AssemblyInfo.cs
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.BLL\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.BLL.csproj.CopyComplete
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.BLL\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.BLL.dll
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.BLL\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.BLL.pdb

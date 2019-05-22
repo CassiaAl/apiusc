@@ -1,0 +1,14 @@
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.DAL\bin\Debug\netstandard2.0\MeuPrimeiroProjeto.DAL.deps.json
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.DAL\bin\Debug\netstandard2.0\MeuPrimeiroProjeto.DAL.dll
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.DAL\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.DAL.csprojAssemblyReference.cache
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.DAL\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.DAL.csproj.CoreCompileInputs.cache
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.DAL\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.DAL.AssemblyInfoInputs.cache
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.DAL\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.DAL.AssemblyInfo.cs
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.DAL\bin\Debug\netstandard2.0\MeuPrimeiroProjeto.DAL.pdb
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.DAL\bin\Debug\netstandard2.0\MeuPrimeiroProjeto.DAL.Infra.dll
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.DAL\bin\Debug\netstandard2.0\MeuPrimeiroProjeto.Entities.dll
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.DAL\bin\Debug\netstandard2.0\MeuPrimeiroProjeto.DAL.Infra.pdb
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.DAL\bin\Debug\netstandard2.0\MeuPrimeiroProjeto.Entities.pdb
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.DAL\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.DAL.csproj.CopyComplete
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.DAL\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.DAL.dll
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.DAL\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.DAL.pdb

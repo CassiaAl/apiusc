@@ -1,0 +1,9 @@
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.Helpers\bin\Debug\netstandard2.0\MeuPrimeiroProjeto.Helpers.deps.json
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.Helpers\bin\Debug\netstandard2.0\MeuPrimeiroProjeto.Helpers.dll
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.Helpers\bin\Debug\netstandard2.0\MeuPrimeiroProjeto.Helpers.pdb
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.Helpers\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.Helpers.csprojAssemblyReference.cache
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.Helpers\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.Helpers\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.Helpers.AssemblyInfoInputs.cache
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.Helpers\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.Helpers.AssemblyInfo.cs
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.Helpers\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.Helpers.dll
+C:\Users\casle\source\repos\MeuPrimeiroProjetto.Api\MeuPrimeiroProjeto.Helpers\obj\Debug\netstandard2.0\MeuPrimeiroProjeto.Helpers.pdb
